@@ -3,11 +3,11 @@ title: sunxiaobiu技术不宅
 email: sunxiaobiu@gmail.com
 description: Source of me.
 localurl: "" # the subpath of your site, e.g. /blog/
-url: 
+url: http://sunxiaobiu.github.io # the base hostname & protocol for your site
 me-img: "/img/HeadPicture.png"
 
 twitter_username:
-github_username: keweiLv
+github_username: sunxiaobiu
 
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
@@ -16,8 +16,8 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
-assets: http://sohyun.github.io/assets
-baseurl: http://sohyun.github.io
+assets: http://sunxiaobiu.github.io/assets
+baseurl: http://sunxiaobiu.github.io
 
 # pagination
 paginate: 10
