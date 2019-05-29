@@ -17,7 +17,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
 assets: http://sunxiaobiu.github.io/assets
-baseurl: http://sunxiaobiu.github.io
+baseurl: 
 
 # pagination
 paginate: 10
