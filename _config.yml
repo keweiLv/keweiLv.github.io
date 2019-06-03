@@ -3,20 +3,20 @@ title: Sohyun  技术不宅
 email: wow.kismohyun.wu@gmail.com
 description: Source of me.
 localurl: "" # the subpath of your site, e.g. /blog/
-url: http://keweiLv.github.io # the base hostname & protocol for your site
+url: https://keweiLv.github.io # the base hostname & protocol for your site
 me-img: "/img/HeadPicture.png"
 
 twitter_username:
 github_username: kezi
 
 # This is the default format.
-# For more see: http://jekyllrb.com/docs/permalinks/
+# For more see: https://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
-assets: http://keweiLv.github.io/assets
+assets: https://keweiLv.github.io/assets
 baseurl: 
 
 # pagination
