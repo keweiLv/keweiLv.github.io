@@ -1,4 +1,18 @@
+```yml
+published: true
+layout: post
+title: IDEA 壁纸分享
+category: JAVA
+tags: 
+
+- java
+  time: 2017.05.02 17:28:00
+  excerpt: 壁纸插件
+```
+
 ##### 趁着《复仇者联盟4》的上线，给大家分享一下，我收藏的漫威壁纸，挥别漫威电影宇宙十年陪伴我们的青春。
+
+<!-- more -->
 
 # 插件使用
 
