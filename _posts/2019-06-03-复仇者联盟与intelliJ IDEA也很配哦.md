@@ -1,14 +1,15 @@
-```yml
+---
 published: true
 layout: post
-title: IDEA 壁纸分享
+title: 复仇者联盟与IntelliJ IDEA也很配哦~
 category: JAVA
 tags: 
+  - JAVA
+time: 2019.06.03 17:19:00
+excerpt: 该插件并不同于其他的效率工具，它唯一的功能就是帮助我们方便的修改IntelliJ IDEA的背景，让我们的代码编辑器变得与众不同。但是，也因为这样一个简单的功能，让我们代码编辑器变得不那么单调。
+---
 
-- java
-  time: 2017.05.02 17:28:00
-  excerpt: 壁纸插件
-```
+
 
 ##### 趁着《复仇者联盟4》的上线，给大家分享一下，我收藏的漫威壁纸，挥别漫威电影宇宙十年陪伴我们的青春。
 
@@ -42,8 +43,6 @@ tags:
 ###### 先通过本文看看我收集的那些适合作为IntelliJ IDEA背景的壁纸效果：
 
 ##### 我最喜欢的钢铁侠系列
-
-！【我是图片】(http://blog.didispace.com/images/pasted-223.png)
 
 ![我是图片](http://blog.didispace.com/images/pasted-223.png)
 
