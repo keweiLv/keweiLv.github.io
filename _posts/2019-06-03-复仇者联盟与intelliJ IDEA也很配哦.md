@@ -25,7 +25,7 @@ excerpt: 因为这样一个简单的功能，让我们代码编辑器变得不�
 
 * File -> Setting
 
-  ![图一](http://blog.didispace.com/images/pasted-212.png)
+  ![ 步骤图](http://blog.didispace.com/images/pasted-212.png)
 
   ###### 分别是安装JetBrains插件，第三方插件，本地已下载的插件包。详情见往期关于settings的文章。
 
